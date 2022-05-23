@@ -2,7 +2,7 @@
 
 
 # Beskrivning:							Detta program och dess huvudfunktion har för syfte att ta fram en textrad innehållande dagens lunchmeny för skolmatsalen.
-# Argument 1: klass - beskrivning		String - Argumentet är ett txt dokument för ett helt rss flöde, vilket är automatiskt genereread kopia av rss flödet från Skolmaten.se där datan för maträtten finns.						
+# Argument 1: klass - beskrivning		String - Argumentet är ett txt dokument för ett helt rss flöde, vilket är automatiskt genereread kopia av rss flödet från Skolmaten.se där datan för matsedeln finns.						
 # Return[0]: klass - beskrivning		String - en kort textrad innhållande endast dagens huvud/första rätt
 # Return[1]: klass - beskrivning		String - en kort textrad innhållande endast dagens alternativrätt
 #
