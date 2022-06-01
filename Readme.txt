@@ -1,0 +1,1 @@
+Skolmat4.py är ett pythonprogram med samma syfte som rubyprogrammet men är skrivet av en äldre version och har därför inte samma funktionalitet och kommentarer som ruby programmet. Titta i första hand på Skolmat_loop.rb
