@@ -1,4 +1,15 @@
 
+#Isak Jonsson Öhström - 2A - 01-06-2022
+
+
+#varaibler:
+
+$uppdateringsfrekvens = 10
+#en variabeln som används längre ned i funktionen och bestämmer intervallet i sekunder mellan uppdateringar av matsedeln.
+
+$onskad_rad_i_html = 19
+#om användaren lägger till data i eller ändrar sin skolmat.html fil kan man ändra vilken rad som dagens matsedel skall stå på.
+
 
 
 # Beskrivning:							Denna funktion har för syfte att ta fram en textrad innehållande dagens lunchmeny för skolmatsalen.
@@ -15,15 +26,6 @@
 # By:									Isak Jonsson Öhström
 # Date:									23-05-22
 
-
-
-#varaibler:
-
-$uppdateringsfrekvens = 10
-#en variabeln som används längre ned i funktionen och bestämmer intervallet i sekunder mellan uppdateringar av matsedeln.
-
-$onskad_rad_i_html = 19
-#om användaren lägger till data i eller ändrar sin skolmat.html fil kan man ändra vilken rad som dagens matsedel skall stå på.
 
 
 
